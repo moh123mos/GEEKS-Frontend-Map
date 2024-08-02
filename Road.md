@@ -1,0 +1,26 @@
+# Frontend
+- ## HTML
+  - [ ] [4D-Tutorial](https://www.youtube.com/watch?v=qfPUMV9J5yw&pp=ygULZWx6ZXJvIGh0bWw%3D)
+- ## CSS
+  - [ ] [8D-Tutorial](https://www.youtube.com/watch?v=qyVkLebgfzY&pp=ygUKY3NzIGVsemVybw%3D%3D)
+  - [ ] [3D-Task1](https://www.youtube.com/watch?v=_-eh8cwGGwg&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=3&pp=iAQB)
+  - [ ] [4D-Task2](https://www.youtube.com/watch?v=heuDmrEAgUA&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=4&pp=iAQB)
+  - [ ] [5D-Task3](https://www.youtube.com/watch?v=vkc99WHcDTk&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=5&pp=iAQB)
+  - [ ] [6D-Task4](https://www.youtube.com/watch?v=DflEcuzjsyA&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=6&pp=iAQB)
+- ## JS
+  - ### Basics & DOM & BOM & API's Basics
+    - [ ] [7D-Tutorial: P1](https://www.youtube.com/watch?v=gIGGhFlGgLI&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=7&pp=iAQB)
+    - [ ] [5D-Tutorial: P2](https://www.youtube.com/watch?v=FKrfis1W1tk&list=PLDoPjvoNmBAzhFD3niPAa1C1gXG4cs14J&index=8&pp=iAQB)
+    - [ ] [2D-Task1: Timer](https://moamen-khalaf.github.io/Timer/)
+    - [ ] [3D-Task2: Todo](https://moamen-khalaf.github.io/Todo/)
+    - [ ] [4D-Task3: QUIZ](https://moamen-khalaf.github.io/Quiz/)
+      - [Create account](https://quizapi.io/)
+      - [Get API key](https://quizapi.io/register)
+      - [Read Doc](https://quizapi.io/docs/1.0/overview)
+  - ### API Advanced
+    - [ ] [3DTutorial](https://www.youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj)
+      - [ ] [0.5D-Challange1](https://www.youtube.com/watch?v=ELL0_6TEFM4&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=11)
+      - [ ] [0.5D-Challenge2](https://www.youtube.com/watch?v=Kr-dQi_axg0&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=15&pp=iAQB)
+      - [ ] [1D-Challenge3](https://www.youtube.com/watch?v=eD538b05yc8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=20&pp=iAQB)
+      - [ ] [0.5D-Challenge4](https://www.youtube.com/watch?v=PNeRlggQMEc&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=24&pp=iAQB)
+    - [ ] [Task](https://www.youtube.com/watch?v=izsIT51koT8&list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&index=31&pp=iAQB)
